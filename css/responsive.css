@@ -1,0 +1,81 @@
+/* html{
+  font-size:10px;
+} */
+
+.btn{
+  /* font-size:1.6rem; */
+  padding: 0.7rem 1rem;
+}
+#navbar h1{
+  float:none;
+  text-align: center;
+  /* font-size:2rem; */
+}
+
+#navbar ul, #navbar ul li{
+  float: none;
+  text-align:center;
+  /* font-size:1.6rem; */
+}
+
+#navbar ul li a{
+  padding:0.5rem;
+  border-bottom: #444 dotted 1px;
+}
+
+
+/* showcase */
+#showcase{
+  height:100%;
+}
+#showcase .showcase-content{
+  padding-top:70px;
+  padding-bottom:30px;
+}
+/* home info */
+
+#home-info .info-img {
+  display:none;
+}
+#home-info .info-content{
+  float:none;
+  width:100%;
+  /* padding: 2rem 1rem; */
+}
+
+#home-info .info-content h2{
+  padding-top:2rem;
+}
+
+/* boxes */
+.box{
+  float:none;
+  width:100%;
+}
+
+/* about info */
+#about-info .container{
+  padding-left:1.4rem;
+}
+
+#about-info .container .info-right,
+.container .info-left{
+  float:none;
+  width:100%;
+}
+
+.large-heading{
+  text-align:center;
+}
+
+#about-info .info-right img{
+  margin-top:30px;
+}
+
+#contact-info .box{
+  border-bottom:#444 dotted 1px;
+}
+
+/* #contact-info .box p{
+  padding-top:0.07rem;
+} */
